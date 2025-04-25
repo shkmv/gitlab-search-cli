@@ -21,7 +21,7 @@ A command-line interface for searching code in GitLab repositories.
 ```bash
 # Clone the repository
 git clone https://github.com/shkmv/gitlab-search-ui.git
-cd gitlab-search-ui/gitlab-search-cli
+cd gitlab-search-cli
 
 # Build the project
 cargo build --release
